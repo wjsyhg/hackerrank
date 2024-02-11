@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/big-sorting/problem
+# https://www.hackerrank.com/challenges/big-sorting/problem
 
 def bigSorting(unsorted):
     # Write your code here
