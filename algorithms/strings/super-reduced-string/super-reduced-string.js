@@ -18,9 +18,6 @@ function superReducedString(s) {
                 i++;       
             }
             
-            if (!arr) {
-                return "Empty String";
-            }
         }
         
         return arr.join("");
